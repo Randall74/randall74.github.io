@@ -1,0 +1,16 @@
+body {
+    background-color: #666;
+}
+
+h2 {
+    text-align: center;
+    color: #ACA;
+}
+
+.btn-primary {
+    display: block;
+    margin: 10px auto;
+    background-color: #488e96;
+    color: #def0f2;
+}
+
